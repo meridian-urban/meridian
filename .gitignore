@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+models/saved/
+data-pipeline/raw/
